@@ -71,10 +71,10 @@ Full-Stack Developer & AI Systems Engineer. Building modern web tools, content m
 
 <div align="center">
   <a href="https://github.com/eddardthehouesofstark-stack">
-    <img src="https://github-readme-stats.vercel.app/api?username=eddardthehouesofstark-stack&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="eddardthehouesofstark-stack's GitHub stats" height="150"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=eddardthehouesofstark-stack&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="eddardthehouesofstark-stack's GitHub stats" height="150"/>
   </a>
   <a href="https://github.com/eddardthehouesofstark-stack">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddardthehouesofstark-stack&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" height="150"/>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=eddardthehouesofstark-stack&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" height="150"/>
   </a>
   <br/><br/>
   <a href="https://github.com/eddardthehouesofstark-stack">
@@ -82,7 +82,7 @@ Full-Stack Developer & AI Systems Engineer. Building modern web tools, content m
   </a>
   <br/><br/>
   <a href="https://github.com/eddardthehouesofstark-stack">
-    <img src="https://github-profile-trophy.vercel.app/?username=eddardthehouesofstark-stack&theme=tokyonight&no-frame=true&column=4&margin_w=15" alt="eddardthehouesofstark-stack's Trophies" />
+    <img src="https://github-trophies.vercel.app/?username=eddardthehouesofstark-stack&theme=tokyonight&no-frame=true&column=4&margin_w=15" alt="eddardthehouesofstark-stack's Trophies" />
   </a>
 </div>
 
