@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%20there%2C%20I'm%20Eddard%20Stark%20%F0%9F%91%8B;Full-Stack%20and%20AI%20Engineer%20%7C%20React%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Python%20%E2%80%A2%20Cloud;Building%3A%20Building%20real-time%20AI%20content%20moderation%20and%20developer%20productivity%20tools" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Eddard%20Stark&fontSize=38&fontColor=ffffff&desc=Full-Stack%20and%20AI%20Engineer%20%7C%20React%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Python%20%E2%80%A2%20Cloud&descSize=16&descAlignY=68&descAlign=50" alt="Eddard Stark Header Banner"/>
 </div>
 
 <p align="center">
