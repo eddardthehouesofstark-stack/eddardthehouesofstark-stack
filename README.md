@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Eddard%20Stark&fontSize=38&fontColor=ffffff&desc=Full-Stack%20and%20AI%20Engineer%20%7C%20React%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Python%20%E2%80%A2%20Cloud&descSize=16&descAlignY=68&descAlign=50" alt="Eddard Stark Header Banner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%20there%2C%20I'm%20Eddard%20Stark%20%F0%9F%91%8B;Full-Stack%20and%20AI%20Engineer%20%7C%20React%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Python%20%E2%80%A2%20Cloud;Building%3A%20Building%20real-time%20AI%20content%20moderation%20and%20developer%20productivity%20tools" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -92,10 +92,10 @@ Full-Stack Developer & AI Systems Engineer. Building modern web tools, content m
 
 | Project | Tech Stack | Live Demo | Repository |
 | :--- | :--- | :---: | :---: |
-| **ai-content-moderation**<br/>🛡️ Real-time automated text & image safety filtering engine with multimodal AI classification and audit logging. | `Python, FastAPI, Gemini API, Docker` | [🌐 Live Demo](https://demo-moderation.example.com) | [💻 Source](https://github.com/eddardthehouesofstark-stack/ai-content-moderation) |
-| **habitflow-v2**<br/>⚡ Modern gamified habit and productivity tracker with real-time streak analytics and offline-first sync. | `React, TypeScript, Tailwind CSS, Vite` | [🌐 Live Demo](https://habitflow.example.com) | [💻 Source](https://github.com/eddardthehouesofstark-stack/habitflow-v2) |
-| **ai-safe-guard**<br/>🔒 Lightweight TypeScript middleware for sanitizing LLM prompt injections and adversarial inputs. | `TypeScript, Node.js, Jest` | [🌐 Live Demo](https://npmjs.com/package/ai-safe-guard) | [💻 Source](https://github.com/eddardthehouesofstark-stack/ai-safe) |
-| **ai-cop-inspector**<br/>🔍 Automated developer CI tool that lints codebases for secret leaks, API compliance, and license risks. | `Go, GitHub Actions, Docker` | _In Progress_ | [💻 Source](https://github.com/eddardthehouesofstark-stack/ai-cop) |
+| **ai-content-moderation** `Featured AI`<br/>🛡️ Real-time automated text & image safety filtering engine with multimodal AI classification and audit logging. | `Python` `FastAPI` `Gemini API` `Docker` | [🌐 **Live Demo**](https://demo-moderation.example.com) | [💻 **Source**](https://github.com/eddardthehouesofstark-stack/ai-content-moderation) |
+| **habitflow-v2** `Full-Stack`<br/>⚡ Modern gamified habit and productivity tracker with real-time streak analytics and offline-first sync. | `React` `TypeScript` `Tailwind CSS` `Vite` | [🌐 **Live Demo**](https://habitflow.example.com) | [💻 **Source**](https://github.com/eddardthehouesofstark-stack/habitflow-v2) |
+| **ai-safe-guard** `npm package`<br/>🔒 Lightweight TypeScript middleware for sanitizing LLM prompt injections and adversarial inputs. | `TypeScript` `Node.js` `Jest` | [🌐 **Live Demo**](https://npmjs.com/package/ai-safe-guard) | [💻 **Source**](https://github.com/eddardthehouesofstark-stack/ai-safe) |
+| **ai-cop-inspector** `DevOps Tool`<br/>🔍 Automated developer CI tool that lints codebases for secret leaks, API compliance, and license risks. | `Go` `GitHub Actions` `Docker` | _In Progress_ | [💻 **Source**](https://github.com/eddardthehouesofstark-stack/ai-cop) |
 
 ---
 
