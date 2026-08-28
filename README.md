@@ -1,4 +1,4 @@
-e<div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,28&height=180&section=header&text=Pragadeesh%20S&fontSize=42&fontColor=61DAFB&animation=fadeIn" alt="Header Banner"/>
 </div>
 
